@@ -1,0 +1,22 @@
+#black{
+  height: 500px;
+
+    background-color: black;
+    border: 20px groove #FF5733;
+
+}
+#image{
+    margin-left: 400px;
+    margin-top: 40px;
+}
+h1{
+    color: yellow;
+    margin-left: 550px;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    color: white;
+    margin-left: 270PX;
+    font-family: 'Libre Baskerville', serif;
+}
